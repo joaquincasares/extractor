@@ -14,4 +14,4 @@ with open(sys.argv[1], 'r') as f:
 
 for line in lines:
     if line.lstrip()[0:1] == delimiter:
-        print line
+        print line.rstrip()
