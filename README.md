@@ -1,8 +1,8 @@
 Description
 -----------
 
-Extract all the comments from a code file to allow for a greater and quicker
-to process high-level view.
+Extract all the comments from a code file to allow for a more full, and 
+quicker-to-process, high-level view.
 
 Usage
 -----
