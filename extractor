@@ -3,7 +3,7 @@
 import sys
 
 if len(sys.argv) < 2:
-    print "Usage: ./extractor.py filename <delimiter>"
+    print "Usage: ./%s filename <delimiter>" % __file__
 
 delimiter = '#'
 if len(sys.argv) == 3:
